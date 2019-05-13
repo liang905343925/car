@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">car</string>
+    <string name="audi">奥迪精品一览</string>
+    <string name="lexus">雷克萨斯SUV一览</string>
+    <string name="BMW">宝马车型一览</string>
+    <string name="home">主页</string>
+    <string name="buy">购物栏</string>
+    <string name="me">我的</string>
+    <string name="exit_btn">退出</string>
+    <string name="purchase">购物车</string>
+    <string name="order">订单</string>
+    <string name="connnect">联系我们</string>
+    <string name="setting">设置</string>
+    <string name="id">账号名：宋悦濠</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
